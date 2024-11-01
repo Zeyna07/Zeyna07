@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zeyna-Angela 
-- 🌱 I’m currently learning JS, SQL and JQuery 
+- 🌱 I’m currently learning JS, SQL and JQuery and open to collaborations 
 - 📫 How to reach me: zeynaangelasarr@gmail.com 
-- ⚡ Fun fact: ...
 
 <!---
 Zeyna07/Zeyna07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
