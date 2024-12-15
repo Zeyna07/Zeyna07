@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zeyna-Angela 
-- 🌱 I’m currently learning JS, SQL and JQuery and open to collaborations 
+- 🌱 I’m currently learning JS, MySQL, SQL and PHP and open to collaborations 
 - 📫 How to reach me: zeynaangelasarr@gmail.com 
 
 <!---
