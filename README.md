@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Zeyna-Angela 
-- 🌱 I’m currently learning JS, MySQL, SQL and PHP and open to collaborations 
-- 📫 How to reach me: zeynaangelasarr@gmail.com 
+- 🌱 Currently doing a Bsc in Computer science
+- 📫 How to reach me: zeynaangelasarr@gmail.com
+- 🦋 I'm open to internship and scholarship opportunities
 
 <!---
 Zeyna07/Zeyna07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
